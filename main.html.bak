@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Histoire du jeu vidéo</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="icon.png">
+</head>
+<body>
+  <header>
+    <h1>Histoire du jeu vidéo</h1>
+    <nav>
+      <ul>
+        <li><a href="#annees-50">Années 50</a></li>
+        <li><a href="#annees-60">Années 60</a></li>
+        <li><a href="#annees-70">Années 70</a></li>
+        <li><a href="#annees-80">Années 80</a></li>
+        <li><a href="#annees-90">Années 90</a></li>
+        <li><a href="#annees-2000">Années 2000</a></li>
+        <li><a href="#annees-2010">Années 2010</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section  id="annees-50">
+      <h2>Années 50 : les premiers jeux</h2>
+	  <div>
+		<figure class="figurer">
+			<img src="bertietb.jpg" alt="Image du jeu Bertie the brain">
+			<figcaption>Bertie the brain : premier jeu-vidéo</figcaption>
+		</figure>
+		<br>
+		<p>En 1950, Joseph Kates développe, dans le cadre de l'Exposition nationale canadienne, le premier jeu 
+		électronique connu : Bertie the Brain. Il s'agit d'un morpion qui se joue face à une intelligence 
+		artificielle à plusieurs niveaux de difficulté. Ce jeu avait pour but de faire la promotion du tube
+		Additron, qui est un tube électronique, ancêtre des transistors.<br>
+		Ce jeu tombe dans l'oubli après l'exposition et est également la seule application du tube Additron suite
+		à des complications pour le brevettage de ce dernier.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="ferrantimk1.jpg" alt="Image de la carte logique d'un Ferranti Mark 1">
+			<figcaption>Carte logique d'un Ferranti Mark 1</figcaption>
+		</figure>
+		<br>
+		<p>En 1951, après avoir participé à la création du Ferranti Mark 1 qui est le premier ordinateur généraliste
+		commercialisé du monde, Dietrich prinz sort son programme d'échecs, qui est le premier programme de jeu
+		d'échecs à fonctionner sur un ordinateur. Ce programme reste cependant très lent et limité par le matériel.</p>
+	  </div>
+	  <div>
+	  <figure class="figurer">
+			<img src="stracheydames.jpg" alt="Copie d'écran du jeu de dammes de Strachey">
+			<figcaption>Jeu de dames de Strachey</figcaption>
+		</figure>
+		<br>
+		<br>
+		<p>En 1952, d'autres jeux sur ordinateur reliés à un écran apparaissent via des recherches académiques.
+Christopher Strachey, encouragé par Alan Turing, développe un jeu de dames sur Ferranti Mark I.
+Alexander Douglas développe OXO, un jeu de morpion, sur EDSAC, deuxième ordinateur électronique à programme
+enregistré connu et conçu à cet effet mis en service en 1949.</p>
+	  </div>
+	  <div>
+	  <figure class="figurel">
+			<img src="tft.jpg" alt="Image d'une réplique de Tennis for Two avec un oscilloscope moderne">
+			<figcaption>Réplique  moderne de Tennis for Two</figcaption>
+		</figure>
+		<br>
+		<p>En 1958, pour distraire les visiteurs du laboratoire national de Brookhaven à New York, William Higinbotham crée 
+		le jeu Tennis for Two sur un Donner Model 30 relié à un oscilloscope. Grâce à deux manettes, les deux joueurs
+		doivent se renvoyer la balle par dessus un filet : il s'agit du premier jeu-vidéo à écran non-statique. <br>
+		En 1959 il adapte ce jeu sur un écran cathodique, mais il ne dépose pas son idée, persuadé qu'il n'a rien inventé.</p>
+	  </div>
+    </section>
+    <section id="annees-60">
+      <h2>Années 60 : quelques essais supplémentaires</h2>
+      <div>
+		<figure class="figurer">
+			<img src="spacewar.jpg" alt="Image du jeu Spacewar!">
+			<figcaption>Spacewar! sur le PDP-1</figcaption>
+		</figure>
+		<br>
+		<p>En 1962, des étudiants du MIT menés par Steve Russell programment le jeu "Spacewar!" sur le premier
+		micro-ordinateur de DEC, le PDP-1, afin de tester les limites de ce nouvel ordinateur. Ce jeu
+		est un jeu de combat entre deux vaisseaux contrôlés par deux joueurs, capables de tirer de missiles et
+		de se déplacer, alors qu'ils sont aspirés vers une étoile au centre de l'écran. <br>
+		Ce jeu fut distribué avec les nouveaux ordinateurs de DEC et est considéré comme le premier jeu vidéo
+		largement diffusé, ayant eu une forte influence. Le jeu pesait 9 ko.
+</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="brownbox.jpg" alt="Image de la Brown Box de Ralph Baer">
+			<figcaption>La Brown Box de Ralph Baer</figcaption>
+		</figure>
+		<br>
+		<p>En 1966, Ralph Baer, ingénieur chez Sanders Associates, crée la Brown Box. Il s'agit d'un boîtier se connectant
+		aux téléviseurs ordinaires et pouvant être vendu une vingtaine de dollars. En 1968, il produit un prototype 
+		pouvant faire tourner différents jeux (ping-pong, tennis, handball...). Cette Brown Box est donc un ancêtre 
+		des consoles de jeu vidéo, qui apparaissent des années plus tard.</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="summergame.jpg" alt="Image du jeu The Summer Game, ou Hamurabi">
+			<figcaption>The Summer Game, ou Hamurabi</figcaption>
+		</figure>
+		<br>
+		<p>En 1968, Doug Dyment, employé de DEC, crée le premier jeu de gestion, nommé "The Summer Game". C'est un jeu de 
+stratégie textuel, inspiré par "The Sumerian Game" développé par Mabel Addis et William McKay entre 1964 et 1966.</p>
+	  </div>
+    </section>
+    <section id="annees-70">
+      <h2>Années 70 : les débuts du jeu moderne</h2>
+      <div>
+		<figure class="figurer">
+			<img src="computerspace.jpg" alt="Image de la borne d'arcade de Computer Space">
+			<figcaption>Computer Space</figcaption>
+		</figure>
+		<br>
+		<p>En 1971, les premières bornes d'arcade fabriquées en série arrivent. Il s'agit de "Computer Space",
+		basé sur "Spacewar!" et développé par Nolan Bushnell et Ted Dabney. Nutting Associates achète ensuite
+		le jeu et fabrique 1500 machines. Le jeu reçoit un accueil mitigé, trop complexe à prendre en main.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="odyssey.png" alt="Image de la Magnavox Odyssey">
+			<figcaption>La Magnavox Odyssey</figcaption>
+		</figure>
+		<br>
+		<p>En 1972, la Magnavox Odyssey sort. Il s'agit de la première console de jeux vidéo. Son succès est relativement
+		faible. Le jeu "Table Tennis" sort sur la Odyssey cette même année en utilisant la technologie du transistor.
+		Bushnell et Dabney créent l'entreprise Atari, et sortent le jeu "Pong", fortement inspiré de "Table Tennis".
+		Magnavox porte plainte contre Atari pour violation de brevets, mais les deux entreprises signent un accord
+		d'une licence unique pour l'exploitation de Pong. <br>
+		Le jeu n'est pas jouable seul, mais est un succès dans les salles d'arcade. En tout, 19000 bornes de "Pong"
+		sont vendues par Atari, débutant l'engouement du public pour les jeux vidéos</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="gunfight.jpg" alt="Image du jeu Gun Fight, ou Western Gun">
+			<figcaption>Gun Fight, ou Western Gun</figcaption>
+		</figure>
+		<br>
+		<p>Gun Fight est un jeu d'arcade sorti en 1975. C'est le premier jeu vidéo numérique à utiliser la technologie 
+		du microprocesseur, plutôt que d'utiliser la technologie TTL. Le jeu, d'abord manufacturé au Japon sous le nom
+		de "Western Gun" par Taito en utilisant des tables de circuits à transistors, utilise un CPU Intel 8080
+		pour la version américaine du jeu, "Gun Fight". C'est le premier microprocesseur réellement utilisable, permettant
+		d'obtenir des graphismes plus fluides, une action plus rapide, et une borne plus solide.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="atari.jpg" alt="Created by Warren Robinet, le premier Easter Egg">
+			<figcaption>Le premier Easter Egg : Warren Robinet se présente</figcaption>
+		</figure>
+		<br>
+		<p>En 1977, Atari lance sa console VCS, renommée Atari 2600. Beaucoup de jeux sortent sur cette console, mais
+		la politique d'anonymat instaurée par Atari, qui interdit de donner le nom des développeurs ayant travaillé 
+		sur un jeu, mécontente certains développeurs qui quittent le studio. Activision, créé par des
+		programmeurs d'Atari mécontents, est le premier développeur tiers de jeux vidéo.</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="othello.jpg" alt="Image de la borne d'arcade Othello">
+			<figcaption>Borne d'arcade d'Othello</figcaption>
+		</figure>
+		<br>
+		<p>En 1978, Nintendo fait sa première apparition dans le monde de l'arcade en sortant une adaptation du jeu 
+		de société Othello. Cette année est également marquée par l'arrivée de Space invaders, développé par Taito, 
+		en Europe. Ce dernier a un énorme succès. <br>
+		Le première polémique concernant l'impact des jeux-vidéos sur les enfants apparaît après la sortie de ce jeu.
+		De plus, il est accusé d'être responsable d'une rupture de pièces de monnaie.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="asteroid.jpg" alt="Image du jeu Asteroids">
+			<figcaption>Asteroids</figcaption>
+		</figure>
+		<br>
+		<p>En 1979, les premiers jeux d'arcade à succès en couleurs apparaissent, notamment Asteroids, Lunar Lander, Missile
+		Command, Berserk, ou encore Battlezone.<br>
+		Sur micro-ordinateur, l'évolution de ces derniers permet aux utilisateurs de programmer des jeux vidéos simples.
+		Ainsi, des jeux vidéos, souvent des clones de jeux d'arcade, sont distribués, avec des codes sources imprimés
+		dans des livres, pour le taper chez-soi, et des envois de disquettes, cassettes ou cartouches par la poste.</p>
+	  </div>
+    </section>
+    <section id="annees-80">
+      <h2>Années 80 : le krach</h2>
+      <div>
+		<figure class="figurer">
+			<img src="gaw.jpg" alt="Image de la Game & Watch Fire">
+			<figcaption>Game and Watch "Fire"</figcaption>
+		</figure>
+		<br>
+		<p>Dans les années 1980, les jeux vidéo sont principalement joués sur des bornes d'arcades.
+		En 1980, "Pac-Man" est publié et devient le jeu le plus populaire du moment, avec 100000 machines
+		vendues aux États-Unis.<br>
+		Sur console, "Space Invaders" est la plus grosse vente de l'année sur Atari 2600.
+		Cette même année, Nintendo met sur le marché la Game and Watch, ancêtre des consoles portables.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="mysteryhouse.jpg" alt="Copie d'écran du jeu Mystery House">
+			<figcaption>Mystery House : premier jeu d'aventure graphique</figcaption>
+		</figure>
+		<br>
+		<p>Ken et Roberta Williams lancent "Mystery House", sur Apple II. Il s'agit du premier jeu d'aventure graphique,
+		où les lieux sont décrits par du texte, mais également des images à l'écran.  Ils sortent d'autres jeux à 
+		succès au fil des années. Infocom, qui était spécialisé dans les jeux d'aventure textuels, perd peu à peu
+		son public suite à la sortie de "Mystery House".</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="dk.jpg" alt="Image du jeu d'arcade Donkey Kong">
+			<figcaption>Première apparition de Donkey Kong</figcaption>
+		</figure>
+		<br>
+		<p>En 1981, les sociétés de jeux vidéo atteignent ensemble 5 miliards de dollars de chiffre d'affaires
+		aux États-Unis. Shigeru Miyamoto, employé de Nintendo, décide de faire "Donkey Kong", au lieu d'améliorer
+		Radar Scope, qui ne se vendait pas bien aux États-Unis. Ce jeu fut un énorme succès.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="excavation2014.jpg" alt="Image de l'excavation de 2014 au Nouveau-Mexique">
+			<figcaption>Excavation de 2014 : des miliers de jeux Atari retrouvés</figcaption>
+		</figure>
+		<br>
+		<p>Le marché des consoles individuelles, qui ne sont pas répandues, supporte peu de jeux, 
+		qui sont souvent des adaptations ratées des jeux de bornes : c'est le krach du jeu vidéo de 1983. <br>
+		Ce krach est provoqué par la sortie de jeux de plus en plus mauvais ainsi que par les pertes
+		financières de studios comme Atari. Une énorme quantité de jeux vidéo pour console sont détruits ou
+		enfouis dans une décharge au Nouveau-Mexique, aux Etats-Unis.</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="sega3.jpg" alt="Image de la Sega Mark 3, la Master System japonaise">
+			<figcaption>Sega Mark III, la Master System japonaise</figcaption>
+		</figure>
+		<br>
+		<p>En 1983, Nintendo sort la FamiCom, console de jeux vidéo individuelle, au Japon. Son démarrage est lent,
+		mais la sélection de jeux fait augmenter la demande. La console est de technologie avancée, et à prix peu élevé.
+		Le même jour, Sega sort la console SG-1000 et l'ordinateur SC-3000 au Japon pour concurrencer Nintendo. En 1985,
+		la Sega Mark III (Master System) sort, mais Sega n'arrivera jamais à dépasser Nintendo, qui redémarre le marché
+		des consoles de jeu grâce à ses licences et ses innovations.<br>
+		La FamiCom sort en 1985 aux États-Unis sous le nom de NES. Elle est vendue à plus de 60 millions d'exemplaires 
+		jusqu'en 1990. </p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="mansion.jpg" alt="Maniac Mansion, le premier Point and Click">
+			<figcaption>Maniac Mansion, le premier Point and Click</figcaption>
+		</figure>
+		<br>
+		<p>À partir de 1985, l'Amiga et l'Atari ST, plus évolués que les autres ordinateurs personnels, renouvellent le
+		jeu vidéo sur ordinateur.<br>
+		En 1989, LucasArts sort "Maniac Mansion" qui est le premier jeu de type "Point and Click".<br>
+		Nintendo sort également la Gameboy, qui est le premier grand succès commercial d'une console portable multijeux.</p>
+	  </div>
+    </section>
+    <section id="annees-90">
+      <h2>Années 90 : l'ère des innovations</h2>
+	  <div>
+	  <figure class="figurer">
+			<img src="aes.jpg" alt="Image de la Neo-Geo AES">
+			<figcaption>Neo-Geo AES</figcaption>
+		</figure>
+		<br>
+		<p>En 1990, les ventes de Nintendo s'affolent suite à la sortie de "Super Mario Bros. 3" Alors que la NES perfore
+		les records de vente.<br>
+		Encouragé par cette remontée des ventes de jeux vidéo, SNK sort leur Neo-Geo AES et Neo-Geo MVS, respectivement
+		une console et une arcade, mais les constructeurs enchaînent les échecs. C'est le cas de Philips avec sa CD-i.
+		Pour contrer Nintendo, Sega développe et sort la Mega Drive, puis crée sa mascotte, Sonic, en 1991.</p>
+	  </div>
+	  <div>
+	  <figure class="figurel">
+			<img src="smetroid.jpg" alt="Jaquette du jeu Super Metroid">
+			<figcaption>Illustration de Super Metroid</figcaption>
+		</figure>
+		<br>
+		<p>En 1991, Nintendo sort la SNES aux États-Unis (en 1992 en Europe, et 1990 au Japon). Nintendo mise ici sur
+		la qualité des jeux, et non sur le progrès technique. Cette console accueille le premier jeu de combat à succès,
+		"Street Fighter II", et d'autres jeux très populaires comme "Super Mario Kart", "Super Metroid" ou "Super 
+		Mario World".</p>
+	  </div>
+	  <div>
+	  <figure class="figurer">
+			<img src="myst.jpg" alt="Image tirée du jeu Myst">
+			<figcaption>Image tirée du jeu Myst</figcaption>
+		</figure>
+		<br>
+		<p>Alors que LucasArts dominait le monde du jeu d'aventure, Cyan Worlds sort cette année "Myst", un nouveau Point 
+		and Click à la première personne utilisant des images qui cherchent l'hyperréalisme. Il permet une immersion 
+		jamais atteinte grâce à des puzzles et énigmes dont la compléxité augmente au fur et à mesure. C'est l'un des 
+		jeux vidéo les plus vendus de tous les temps, avec plus de 7 millions d'unités vendues au total.</p>
+	  </div>
+	  <div>
+	  <figure class="figurel">
+			<img src="wolf.jpg" alt="Image de Wolfenstein 3D, le premier FPS">
+			<figcaption>Wolfenstein 3D, le premier "FPS"</figcaption>
+		</figure>
+		<br>
+		<p>En 1992, id Software sort Wolfenstein 3D, considéré comme le premier jeu de tir à la première personne. Il
+		se joue en 3D temps réel, ce qui procure une certaine sensation d'une plus grande liberté d'action. <br>
+		Un an plus tard, id Software sort Doom, où tout est davantage travaillé afin de créer une atmosphère angoissante. 
+		Ces jeux seront ensuite suivis par d'autres jeux FPS, comme les jeux "Duke Nukem", "Blood", "Quake" ou "Half Life", mais ceux-ci
+		seront réalisés intégralement en 3D, tandis que les jeux d'id Software utilisaient des sprites 2D.</p>
+	  </div>
+	  <div>
+	  <figure class="figurer">
+			<img src="dune.jpg" alt="Image tirée de Dune 2, premier jeu de stratégie en temps réel">
+			<figcaption>Dune II, premier jeu de stratégie en temps réel</figcaption>
+		</figure>
+		<br>
+		<p>Fin 1992, Westwood Studios sort "Dune II", premier jeu de stratégie en temps réel (RTS) moderne, car il introduit
+		des concepts originaux encore d'actualité. Ce jeu sera suivi par "Warcraft : Orcs and Humans" de Blizzard 
+		Entertainment en 1994. Ces deux jeux, ainsi que "StarCraft" de Blizzard Entertainment et les suites de "Warcraft"
+		auront énormément de succès.</p>
+	  </div>
+	  <div>
+	  <figure class="figurel">
+			<img src="ps.png" alt="Image de la première PlayStation">
+			<figcaption>La PlayStation 1</figcaption>
+		</figure>
+		<br>
+		<p>En 1994, après que Nintendo se soit retiré d'un projet en commun avec Sony, ces derniers sortent la PlayStation, qui
+		démarre avec des titres mythiques comme "Final Fantasy VII" qui battent de nombreux records et marquent toute une 
+		génération. <br>
+		Cette même année, Sega sort la Sega Saturn : c'est un succès au Japon, mais un échec dans le reste du monde.</p>
+	  </div>
+	  <div>
+	  <figure class="figurer">
+			<img src="rb.jpg" alt="Les deux premiers jeux pokémon : Rouge et Bleu (Vert au japon)">
+			<figcaption>Les deux premiers jeux Pokémon</figcaption>
+		</figure>
+		<br>
+		<p>En 1996, Nintendo sort une licence qui sauve la firme et sa Game Boy : "Pokémon". Le premier jeu se vend à plusieurs
+		dizaines de milliers d'exemplaires et la Game Boy devient temporairement la console la plus vendue de tous les temps. <br>
+		Nintendo sort la Nintendo 64 au Japon et dans le reste du monde en 1996 et 1997, trop tard pour concurrencer la 
+		PlayStation. La console s'en sort cependant grâce à des titres comme "Super Mario 64", "GoldenEye 007" ou
+		"The Legend of Zelda : Ocarina of Time", qui vont marquer les joueurs.
+</p>
+	  </div>
+	  <div>
+	  <figure class="figurel">
+			<img src="gt.jpg" alt="Image tirée Gran Turismo 1 sur PlayStation">
+			<figcaption>Gran Turismo 1</figcaption>
+		</figure>
+		<br>
+		<p>En 1997, Origin Systems et Electronic Arts créent "Ultima Online", un des premiers jeux à monde persistant, 
+		c'est-à-dire un jeu qui continue d'évoluer même lorsque le joueur n'est pas connecté.<br>
+		Au Japon, "Grand Turismo" sort sur PlayStation et impose de nouveaux standards en matière de rendu visuel,
+		de physique et de contenu. C'est le jeu le plus vendu de la PlayStation et la série devient une référence du jeu de 
+		course automobile.<br>
+		Toujours en 1997, Nintendo sort le Rumble Pack pour Nintendo 64, premier dispositif de vibrations pour manettes.</p>
+	  </div>
+	  <div>
+	  <figure class="figurer">
+			<img src="diablo.jpg" alt="Image tirée du jeu Diablo">
+			<figcaption>Diablo, premier Hack 'n' Slash</figcaption>
+		</figure>
+		<br>
+		<p>En 1998, LucasArt essaye de renouveler le genre du jeu d'aventure avec "Grim Fandango", mais le genre semble être
+		sur la pente descendante. <br>
+		Pendant ce temps, Blizzard Entertainment sort StarCraft, et Diablo. Diablo est un "hack 'n' slash", c'est-à-dire un
+		mélange d'un jeu de rôle, d'aventure et d'heroic fantasy où le joueur peut faire évoluer les compétences de son
+		personnage ainsi que son équipement. Son succès est expliqué par sa rejouabilité, la variété des équipements et
+		la liberté laissée au joueur.</p>
+	  </div>
+	  <div>
+	  <figure class="figurel">
+			<img src="mgs.jpg" alt="Image tirée de Metal Gear Solid, premier jeu d'infiltration">
+			<figcaption>Metal Gear Solid, premier jeu d'infiltration</figcaption>
+		</figure>
+		<br>
+		<p>Cette même année, Konami sort "Metal Gear Solid", qui invente le jeu d'infiltration. Avec un système de jeu
+		novateur,  une histoire riche en rebondissements et de longues cinématiques, ce jeu est un succès, et son créateur, 
+		Hideo Kojima, devient une figure populaire dans la communauté de joueurs. <br>
+		Finalement, Sega sort sa dernière console, la Dreamcast. </p>
+	  </div>
+	</section>
+	<section id="annees-2000">
+	  <h2>Années 2000 : de plus en plus populaires</h2>
+	  <div>
+		<figure class="figurer">
+			<img src="cs.jpg" alt="Image de Counter Strike, sorti en 2000">
+			<figcaption>Counter Strike, FPS en ligne très populaire</figcaption>
+		</figure>
+		<br>
+		<p>En 2000, Sony lance la PlayStation 2. La console se fait une réputation grâce à sa puissance et sa ludothèque
+		riche et variée comprenant de nombreuses exclusivités. Il s'agit de la console de salon la plus vendue de l'histoire,
+		avec plus de 150 millions d'unités écoulées dans le monde. <br>
+		Certains jeux populaires sortent cette année. C'est le cas des "Sims", jeu de gestion très populaire,
+		et de "Counter Strike", jeu de tir qui est resté le jeu le plus joué en ligne longtemps.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="xbox.jpg" alt="Image de la première Xbox de Microsoft">
+			<figcaption>La première Xbox</figcaption>
+		</figure>
+		<br>
+		<p>En 2001, Microsoft débute dans le marché du jeu vidéo avec la Xbox aux États-Unis. Nintendo sort deux consoles : 
+		la GameCube au Japon, et la Game Boy Advance, rétrocompatible avec les jeux d'anciennes Game Boy, dans le monde entier.
+		Sega annonce l'arrêt de la production de consoles cette année.<br>
+		En octobre, Rockstar Games sort "Grand Theft Auto III", qui connaît un grand succès et se distingue par la liberté
+		d'action proposée et l'anticonformisme du jeu, même s'il est sujet à des controverses.</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="steam.png" alt="Logo de Steam">
+			<figcaption>Logo de Steam</figcaption>
+		</figure>
+		<br>
+		<p>En 2002, la Xbox au Japon et en Europe, et la GameCube sort en Europe. <br>
+		En 2003, Valve développe et propose Steam, une plateforme de distribution de jeux vidéo. Les développeurs
+		indépendants et les éditeurs peuvent ainsi partager leurs jeux sur ordinateur et être rémunérés ou non, tout
+		en donnant l'accès à tous ces jeux aux utilisateurs grâce à une seule application commune. <br>
+		Cette année, Nintendo sort la Game Boy Advance SP, et Infogrames rachète Atari.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="gta4.jpg" alt="Image de Grand Theft Auto 4, source d'une controverse">
+			<figcaption>Grand Theft Auto IV, responsable d'une nouvelle controverse</figcaption>
+		</figure>
+		<br>
+		<p>En 2004, Nintendo sort la DS au Japon et aux États-Unis (elle sortira en Europe en 2005)<br>
+		En 2006, Nintendo sort la Wii partout dans le monde et la DS Lite en Europe. La PlayStation 3 de Sony sort cette 
+		année en Amérique et au Japon (elle sortira en Europe en 2007)<br>
+		En 2008, malgré la crise économique, Nintendo fait des bénéfices records et sort la DSi au Japon.
+		Cette année, Grand Theft Auto IV sort après une forte médiatisation : il fait débuter une nouvelle
+		controverse autour du jeu vidéo et de la violence.<br>
+		En 2009, la Nintendo DSi sort en Amérique et en Europe. Pour concurrencer Nintendo, Microsoft annonce le projet
+		Natal, qui sera ensuite renommé Kinect, afin de contrôler la Xbox 360 grâce aux mouvements du corps et la voix.</p>
+	  </div>
+	</section>
+	<section id="annees-2010">
+	  <h2>2010 à maintenant : un art que tout le monde peut apprécier</h2>
+	  <div>
+		<figure class="figurer">
+			<img src="pdp.jpg" alt="Image de PewDiePie, youtubeur anciennement spécialisé dans le let's play">
+			<figcaption>PewDiePie, ex-let's player</figcaption>
+		</figure>
+		<br>
+		<p>Les années 2010 connaissent l'émergence du jeu vidéo indépendant qui s'affirme sur le marché avec de gros succès.
+		Tandis que les gros studios produisent des jeux très médiatisés et commercialisés à grand échelle(AAA),
+		les jeux indépendants développés par de petits studios ou des personnes seules sans le soutien d'un grand 
+		éditeur se popularisent notamment sur Steam et se démocratisent sur les consoles de jeux. <br>
+		Ces années voient également l'émergence de "youtubeurs" qui popularisent certains jeux en commentant leur gameplay</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="3ds.png" alt="Image de la Nintendo 3DS">
+			<figcaption>Nintendo 3DS</figcaption>
+		</figure>
+		<br>
+		<p>En 2011, Nintendo sort la Nintendo 3DS, première console à utiliser la 3D stéréoscopique. Cette même année,
+		Sony sort la PlayStation Vita au Japon, première console portable à deux sticks. Suite à cela, Nintendo baisse le 
+		prix de sa nouvelle console.  <br>
+		Markus Persson publie cette année Minecraft, un jeu de survie en bac à sable
+		codé à l'aide du langage Java. Ce jeu est à ce jour l'un des jeux les plus joués au monde, ayant eu une influence
+		réelle dans le monde du jeu vidéo.</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="ap.jpg" alt="Image tirée de Agni's Philosophy">
+			<figcaption>Agni's Philosophy, démo technique</figcaption>
+		</figure>
+		<br>
+		<p>En 2012, Nintendo sort la Wii U, qui succède à la Wii. La PlayStation Vita est maintenant disponible dans le reste 
+		du monde. Activision publie "Call of Duty : Black Ops II", développé par Treyarch. Ce jeu marque un record, avec
+		1 milliard de dollars de chiffre d'affaires en 15 jours. <br>
+		Le studio Square Enix présente un moteur graphique, "Luminous Engine", 
+		donnant un avant-goût des capacités des consoles nouvelle génération avec sa démo technique "Agni's Philosophy"</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="gta5.jpg" alt="Image du Grand Theft Auto 5">
+			<figcaption>Grand Theft Auto V : une autre controverse ?</figcaption>
+		</figure>
+		<br>
+		<p>Fin 2013, les consoles "next gen" sortent : la PlayStation 4 de Sony, et la Xbox One de Microsoft.
+		Cette même année, Rockstar Games sort "Grand Theft Auto V",  dépassant le milliard de dollars de recettes
+		3 jours après la sortie du jeu sur Xbox 360 et PlayStation 3. 
+		Finalement, cette année est marqué par des inquiétudes : suite à plusieurs fusillades aux Etats-Unis, 
+		le débat sur le lien entre les jeux-vidéos violents et les actes réels de violence refait surface.</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="lol2015.jpg" alt="Image tirée du championnat du monde de League of Legends en 2015">
+			<figcaption>LoL World Championships, 2015</figcaption>
+		</figure>
+		<br>
+		<p>En 2014, 25% des applications payantes les plus téléchargées sur iPad sont des jeux. Ceux-ci ont pu se
+		développer grace aux capacités graphiques de la tablette d'Apple et l'écran haute définition de cette dernière.
+		En 2015, la finale du 5eme championnat du monde de League Of Legends, un jeu en battle arena sorti
+		en 2009, bat le record historique du nombre de spectateurs en ligne, avec un total de 36 millions de
+		vues et un pic d'audience de 14 millions de vues.</p>
+	  </div>
+	  <div>
+		<figure class="figurel">
+			<img src="rtx.jpg" alt="Image de la carte graphique Nvidia GeForce RTX 2080Ti">
+			<figcaption>Nvidia GeForce RTX 2080Ti</figcaption>
+		</figure>
+		<br>
+		<p>En 2018, Nvidia sort sa série de cartes graphiques RTX 2000. L'entreprise présente une technologie permettant 
+		d'utiliser le Ray Tracing en temps réel dans nos jeux vidéos, afin d'améliorer les effets d'éclairage et l'immersion
+		en sacrifiant des images par secondes (ips). Cette technologie, de plus en plus optimisée pour les jeux, ajoute ainsi 
+des effets réalistes de reflets et d'ombrages, entre autres.</p>
+	  </div>
+	  <div>
+		<figure class="figurer">
+			<img src="ps5serx.jpg" alt="Image d'une PlayStation 5 et d'une Xbox Series X">
+			<figcaption>PlayStation 5 et Xbox Series X, génération actuelle de consoles</figcaption>
+		</figure>
+		<br>
+		<p>En 2020, les consoles les plus récentes à ce jour sortent : la PlayStation 5 de Sony, et la Xbox Series de Microsoft. <br>
+		À ce jour, le jeu vidéo est considéré comme un art pour beaucoup. Alors que certains jeux présentent un scénario
+		très poussé et immersif, d'autres développent notre réflexion ou certaines capacités cérébrales. De plus, le jeu
+		vidéo peut également être une source de revenus : le développement vidéoludique est bien payé, et les tournois
+		"e-sport" sont généreusement rémunérés.
+</p>
+	  </div>
+	</section>
+  </main>
+  <footer>
+	<nav>
+		<ul>
+		  <li><a href="sources.html">Sources</a></li>
+		</ul>
+	</nav>
+  </footer>
+</body>
+</html>
+

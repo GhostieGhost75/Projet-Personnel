@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+
+:root {
+  --text: #000;
+  --bg: #fff;
+  --banner : #333
+}
+
+a:hover {
+  text-decoration: underline;
+  font-style:oblique;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #fff;
+    --bg: #333;
+	--banner : #262626
+  }
+}
+
+* {
+ font-family: Verdana, sans-serif;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+header {
+  background-color: var(--banner);
+  color: white;
+  position: fixed;
+  top: 0;
+  left : 0;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-family : Tahoma, sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  margin-top: 100px;
+  padding: 50px;
+}
+
+footer {
+  background-color: var(--banner);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  height: 250px;
+  object-fit: cover;
+}
+
+
+.figurer {
+  float: right;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+
+.figurel {
+  float: left;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+
+figure figcaption { 
+  font-size: 14px;
+  color: var(--text);
+  text-align: center;
+}
+
+p {
+	color: var(--text);
+}
+
+h2 {
+	color: var(--text);
+}
+
+div {
+	display:inline-block;
+}
+
+.sc {
+	color: var(--text);
+	font-decoration:underline;
+}

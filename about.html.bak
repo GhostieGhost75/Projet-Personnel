@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Histoire du jeu vidéo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1><a href="main.html">Histoire du jeu vidéo</a></h1>
+  </header>
+  <section>
+  <h2> Qui suis-je ?</h2>
+  <p>Je suis Lucas Ferreira de Sousa. Actuellement élève de terminale, je suis<br>
+  passioné par tout ce qui touche à l'informatique de près ou de loin.</p>
+  </section>
+  <main>
+    </main>
+  <footer>
+	<nav>
+		<ul>
+		  <li><a href="#">Sources</a></li>
+		  <li><a href="#">À propos de moi</a></li>
+		</ul>
+	</nav>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
+
