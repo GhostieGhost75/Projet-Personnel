@@ -67,6 +67,11 @@ section {
   padding: 50px;
 }
 
+section::before {
+  content: attr(data-title);
+  font-weight: bold;
+}
+
 footer {
   background-color: var(--banner);
   color: white;
